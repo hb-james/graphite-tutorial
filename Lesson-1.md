@@ -8,6 +8,10 @@ In this lesson we will be merging branch `lesson-1` into `main`
 2. Once saved, stage your recent changes through your favorite method or `git add .`
 3. Lets commit our changes `gt cc -m "Added great content to lesson 1"`
 4. Now we can submit our stack (stack of 1) as a PR by running `gt stack submit` or `gt ss` and follow the prompt messages.
+5. You should now see a PR request created in github, and should be able to merge it from there
+6. Once PR has been merged, lets go back to our `main` branch with `gt bco main`
+7. Lets sync our local repo with the latest changes from remote by running `gt repo sync` or `gt rs`
+
 
 
 
