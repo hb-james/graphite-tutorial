@@ -23,4 +23,4 @@ https://cli.github.com/manual/installation
 3. Initialize graphite with `gt repo init` or `gt ri` choose main branch as your trunk branch.
 4. Select yes to track existing branches, normally I would not say yes for other projects because I want my graphite to only show my work.
 5. Check the branch `lesson-1` with `gt branch checkout lesson-1` or `gt bco lesson-1`
-
+6. Follow instructions on `Lesson-1.md`

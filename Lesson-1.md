@@ -11,3 +11,5 @@ In this lesson we will be merging branch `lesson-1` into `main`. Make sure you a
 5. You should now see a PR request created in github, and should be able to merge it from there
 6. Once PR has been merged, lets go back to our `main` branch with `gt bco main`
 7. Lets sync our local repo with the latest changes from remote by running `gt repo sync` or `gt rs`
+
+Feel free to move onto Lesson 2, after this lesson.
