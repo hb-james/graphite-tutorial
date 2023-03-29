@@ -2,7 +2,7 @@
 
 ## Standard Pull Request to Main
 
-In this lesson we will be merging branch `lesson-1` into `main`
+In this lesson we will be merging branch `lesson-1` into `main`. Make sure you are in the branch `lesson-1` before starting.
 
 1. Add some content to the end of this file.
 2. Once saved, stage your recent changes through your favorite method or `git add .`
@@ -11,8 +11,3 @@ In this lesson we will be merging branch `lesson-1` into `main`
 5. You should now see a PR request created in github, and should be able to merge it from there
 6. Once PR has been merged, lets go back to our `main` branch with `gt bco main`
 7. Lets sync our local repo with the latest changes from remote by running `gt repo sync` or `gt rs`
-
-
-
-
-
